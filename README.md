@@ -28,16 +28,18 @@ This next-generation NFT marketplace is built on the Aptos blockchain, offering 
     ```bash
     git clone https://github.com/coder-shubham/Nexties-NFTNexus/
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd frontend
-    ```
-3. Install dependencies:
+    
+2. Install dependencies:
     ```bash
     npm install
     ```
+    
+3. Navigate to the project directory:
+    ```bash
+    cd src
+    ```
 
-### Running the Game
+### Running the App
 1. Start the development server:
     ```bash
     npm start
